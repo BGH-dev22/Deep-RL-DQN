@@ -1,0 +1,30 @@
+@"
+# Environnements virtuels
+venv/
+.env/
+.venv/
+
+# Fichiers temporaires Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Dossiers cachés
+.DS_Store
+Thumbs.db
+
+# Données ou modèles lourds
+*.npy
+*.h5
+*.pt
+*.pth
+*.ckpt
+*.zip
+
+# Autres
+*.log
+"@ | Out-File -Encoding UTF8 .gitignore
