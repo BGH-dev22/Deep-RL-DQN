@@ -12,7 +12,7 @@ Ce projet compare **4 méthodes d'apprentissage par renforcement** sur l'environ
 - [Résultats Attendus](#résultats-attendus)
 - [Paramètres Configurables](#paramètres-configurables)
 - [Dépendances](#dépendances)
-- [Auteur](#auteur)
+
 
 ---
 
@@ -340,4 +340,5 @@ Vérifiez que matplotlib est installé et que vous n'êtes pas en environnement 
 - L'entraînement complet prend environ 2-5 minutes selon votre machine
 
 ---
+
 
